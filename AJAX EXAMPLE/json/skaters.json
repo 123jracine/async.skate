@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Rodney Mullen",
+        "year": "1966",
+        "stance": "Regular",
+        "image": "img/rodney-grab.jpg"
+    },
+    {
+        "name": "Daewon Song",
+        "year": "1975",
+        "stance": "Goofy",
+        "image": "img/daewon-grab.jpg"
+    },
+    {
+        "name": "Nyjah Huston",
+        "year": "1994",
+        "stance": "Goofy",
+        "image": "img/nyjah-huston1.jpg"
+    },
+    {
+        "name": "Kris Markovich",
+        "year": "1972",
+        "stance": "Regular",
+        "image": "img/krisvanschrome.jpg"
+    },
+    {
+        "name": "Jamie Thomas",
+        "year": "1974",
+        "stance": "Regular",
+        "image": "img/Switch-Crook_JamieThomas_Jenkem.jpg"
+    },
+    {
+        "name": "Aaron Homoki",
+        "year": "1990",
+        "stance":"Regular",
+        "image": "img/aaron-jaws-homoki.jpg"
+    },
+    {
+        "name": "Rob Dyrdek",
+        "year": "1974",
+        "stance": "Goofy",
+        "image": "img/rob-dyrdek"
+    },
+    {
+        "name": "Tony Hawk ",
+        "year": "1968",
+        "stance": "Goofy",
+        "image": "img/tony-hawk.jpg"
+    },
+    {
+        "name": "Tom Penny",
+        "year": "1977",
+        "stance": "Regular",
+        "image": "img/tom-penny.jpg"
+    },
+    {
+        "name": "Rodney Mullen",
+        "year": "1966",
+        "stance": "Regular",
+        "image": "img/andrew-reynolds.jpg"
+    }
+]
